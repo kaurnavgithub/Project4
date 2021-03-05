@@ -1,1 +1,2 @@
-Basic faetures
+Basic features
+Added some More code in Faeture1
